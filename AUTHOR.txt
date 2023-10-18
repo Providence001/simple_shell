@@ -1,0 +1,3 @@
+this simple shell project is a solo project.
+ 
+author's name "Enoch Dike"
